@@ -1,4 +1,4 @@
-# Magento 2 Missing Orders
+# Magento 2 Maintenance Page
 
 Online Magento 2 stores may undergo changes from time to time such as upgrading to the latest version, installing a new theme, or an extension. At these times, the store needs to be switched in the maintenance mode. However, doing so displays a broken link. It's not advisable from the SEO perspective. The solution is the [***Magento 2 Maintenance Page***](https://meetanshi.com/magento-2-maintenance-page.html) extension.
 
